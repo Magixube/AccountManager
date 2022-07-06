@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "dotenv": "^8.2.0",
-        "jquery-validation": "^1.19.1"
+        "jquery-validation": "^1.19.5"
     }
 }
